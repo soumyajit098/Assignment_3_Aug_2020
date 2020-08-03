@@ -1,0 +1,7 @@
+D:\Front end\DotNetConsoleApps\AbstractClassAndInterface\AbstractClassAndInterface\bin\Debug\AbstractClassAndInterface.exe.config
+D:\Front end\DotNetConsoleApps\AbstractClassAndInterface\AbstractClassAndInterface\bin\Debug\AbstractClassAndInterface.exe
+D:\Front end\DotNetConsoleApps\AbstractClassAndInterface\AbstractClassAndInterface\bin\Debug\AbstractClassAndInterface.pdb
+D:\Front end\DotNetConsoleApps\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\AbstractClassAndInterface.csprojAssemblyReference.cache
+D:\Front end\DotNetConsoleApps\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\AbstractClassAndInterface.csproj.CoreCompileInputs.cache
+D:\Front end\DotNetConsoleApps\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\AbstractClassAndInterface.exe
+D:\Front end\DotNetConsoleApps\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\AbstractClassAndInterface.pdb
