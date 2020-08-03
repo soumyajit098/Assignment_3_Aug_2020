@@ -1,0 +1,7 @@
+D:\Front end\DotNetConsoleApps\StringConcepts\StringConcepts\bin\Debug\StringConcepts.exe.config
+D:\Front end\DotNetConsoleApps\StringConcepts\StringConcepts\bin\Debug\StringConcepts.exe
+D:\Front end\DotNetConsoleApps\StringConcepts\StringConcepts\bin\Debug\StringConcepts.pdb
+D:\Front end\DotNetConsoleApps\StringConcepts\StringConcepts\obj\Debug\StringConcepts.csprojAssemblyReference.cache
+D:\Front end\DotNetConsoleApps\StringConcepts\StringConcepts\obj\Debug\StringConcepts.csproj.CoreCompileInputs.cache
+D:\Front end\DotNetConsoleApps\StringConcepts\StringConcepts\obj\Debug\StringConcepts.exe
+D:\Front end\DotNetConsoleApps\StringConcepts\StringConcepts\obj\Debug\StringConcepts.pdb
